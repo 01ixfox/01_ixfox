@@ -59,7 +59,7 @@ I'm constantly learning and love working on challenging projects, always strivin
 - I also have a B2 level in English, according to the Common European Framework of Reference for Languages (CEFR). This allows me to communicate fluently and confidently in most technical, academic, and professional contexts. I can read and understand complex documentation, write clear and structured texts, and engage in conversations on a wide range of topics related to technology and development.
 
 ## 🎓 Education:
-- I’m currently studying Technical Informatics (Bachelor), where I’ve developed knowledge in programming, databases, networks, operating systems, web design, and software development. I also enhance my learning through personal projects and self-study.
+- I’m currently studying Technical Informatics, where I’ve developed knowledge in programming, databases, networks, operating systems, web design, and software development. I also enhance my learning through personal projects and self-study.
 
 ## ☎️ Contact:
 
