@@ -3,7 +3,14 @@
 </div>
 <h3 align="center">⭐ Developer - Tester - Scripter ⭐<h3>
 <hr>
+    
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=01ixfox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01ixfox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=01ixfox&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 ## About Me:
 
 I'm a developer passionate about technology and programming, with hands-on experience in designing and building digital solutions for both web and interactive environments. I’m skilled in HTML, CSS, and JavaScript, allowing me to create responsive and dynamic user interfaces. I also have a solid understanding of Java and Lua, which enables me to build applications and scripts for platforms like Roblox Studio.
