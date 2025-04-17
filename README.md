@@ -36,7 +36,7 @@ I'm constantly learning and love working on challenging projects, always strivin
 ## 🤖 Development tools and environments I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,robloxstudio,vscode,wordpress,netbeans&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=blender,robloxstudio,vscode,wordpress&theme=dark" />
   </a>
 </p>
 
