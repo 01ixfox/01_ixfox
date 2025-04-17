@@ -67,3 +67,7 @@ I'm constantly learning and love working on challenging projects, always strivin
 | :----------------: | :---------------------------------------------------: |
 |     `01ixfoxx@gmail.com`      |    <p align="center"><img src="https://skillicons.dev/icons?i=gmail,&theme=dark" width="48"></p>|
 |   `01_ixfox`    |  <img src="https://skillicons.dev/icons?i=discord,&theme=dark" width="48">  |
+|   `01ixfox`    |  <img src="https://skillicons.dev/icons?i=twitter,&theme=dark" width="48">  |
+
+## 🔗 Links:
+- [X | Twitter](https://x.com/01ixfox)
