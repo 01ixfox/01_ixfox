@@ -29,7 +29,7 @@ I'm constantly learning and love working on challenging projects, always strivin
 ## ⌨️ Technologies and languages I’m skilled in:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,discordjs,bots,js,nodejs,github,java,html,css,npm,lua,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=discord,discordjs,bots,js,nodejs,github,java,html,css,npm,lua&theme=dark" />
   </a>
 </p>
 
