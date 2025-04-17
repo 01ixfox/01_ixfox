@@ -63,11 +63,11 @@ I'm constantly learning and love working on challenging projects, always strivin
 
 ## ☎️ Contact:
 
-|      Contact       |                         Platform                          |
-| :----------------: | :---------------------------------------------------: |
-|     `01ixfoxx@gmail.com`      |    <p align="center"><img src="https://skillicons.dev/icons?i=gmail,&theme=dark" width="48"></p>|
-|   `01_ixfox`    |  <img src="https://skillicons.dev/icons?i=discord,&theme=dark" width="48">  |
-|   `01ixfox`    |  <img src="https://skillicons.dev/icons?i=twitter,&theme=dark" width="48">  |
+|      Contact         |                                  Platform                                   |
+| :------------------: | :-------------------------------------------------------------------------: |
+| `01ixfoxx@gmail.com` |  <img src="https://skillicons.dev/icons?i=space,gmail,&theme=dark" width="68">    |
+|      `01_ixfox`      |  <img src="https://skillicons.dev/icons?i=space,discord,&theme=dark" width="68">  |
+|       `01ixfox`      |  <img src="https://skillicons.dev/icons?i=space,twitter,&theme=dark" width="68">  |
 
 ## 🔗 Links:
 - [X | Twitter](https://x.com/01ixfox)
